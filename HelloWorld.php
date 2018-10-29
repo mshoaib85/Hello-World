@@ -1,5 +1,5 @@
 <?php
-  // In PHP, we use echo to print text
+  // In PHP, we use echo to print any text we want
   echo "Hello World";
   // If you want to print in browser's console, we use print_r
   print_r("Hello World");
